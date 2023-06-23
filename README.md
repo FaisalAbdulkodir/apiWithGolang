@@ -1,5 +1,5 @@
 # How to Use
-- make database named music on MySql
+- make database name music on MySql
 - migrate -> go run migrate/migrate.go
 - go run main.go
 
